@@ -1,0 +1,8 @@
+EqpList,FmsList,DataType,CommonFlag
+StartTemp,StartTemp_PD,Float,C
+EndTemp,EndTemp_PD,Float,C
+AvgTemp,AvgTemp_PD,Float,C
+StartVoltage,StartVoltage_PD,Float,
+EndVoltage,EndVoltage_PD,Float,
+Current,Current_PD,Float,
+IR,IR_PD,Float,

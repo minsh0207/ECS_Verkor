@@ -1,0 +1,9 @@
+EqpList,FmsList,DataType
+Capacity,Capacity_PD,Float
+AvgVoltage,AvgVoltage_PD,Float
+EndVoltage,EndVoltage_PD,Float
+EndCurrent,EndCurrent_PD,Float
+EndTime,EndTime_PD,UInt16
+StartTemp,StartTemp_PD,Float
+EndTemp,EndTemp_PD,Float
+AvgTemp,AvgTemp_PD,Float

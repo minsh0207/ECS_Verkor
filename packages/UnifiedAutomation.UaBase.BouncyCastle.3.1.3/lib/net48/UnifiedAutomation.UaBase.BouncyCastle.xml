@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>UnifiedAutomation.UaBase.BouncyCastle</name>
+    </assembly>
+    <members>
+        <member name="T:UnifiedAutomation.UaBase.BouncyCastleCertificateFactory">
+            <remarks />
+        </member>
+        <member name="M:UnifiedAutomation.UaBase.BouncyCastleCertificateFactory.#ctor(UnifiedAutomation.UaBase.ISecurityProvider)">
+            <remarks />
+        </member>
+        <member name="M:UnifiedAutomation.UaBase.BouncyCastleCertificateFactory.Dispose(System.Boolean)">
+            <remarks />
+        </member>
+        <member name="M:UnifiedAutomation.UaBase.BouncyCastleCertificateFactory.CreateCertificate(System.String,UnifiedAutomation.UaBase.CreateCertificateSettings)">
+            <remarks />
+        </member>
+        <member name="M:UnifiedAutomation.UaBase.BouncyCastleCertificateFactory.Revoke(UnifiedAutomation.UaBase.ISecurityProvider,System.String,System.String,System.String,UnifiedAutomation.UaBase.ICertificate)">
+            <summary>
+            Revokes the certificate.
+            </summary>
+            <param name="securityProvider"></param>
+            <param name="storePath">The store path.</param>
+            <param name="thumbprint">The thumbprint of the issuer certificate.</param>
+            <param name="password">The password (not used).</param>
+            <param name="certificate">The certificate to revoke.</param>
+        </member>
+        <member name="M:UnifiedAutomation.UaBase.BouncyCastleCertificateFactory.LoadCRL(System.Byte[])">
+            <remarks />
+        </member>
+        <member name="M:UnifiedAutomation.UaBase.BouncyCastleCertificateFactory.CreateCrl(Org.BouncyCastle.Crypto.AsymmetricCipherKeyPair,Org.BouncyCastle.X509.X509Certificate,Org.BouncyCastle.X509.X509Crl,Org.BouncyCastle.X509.X509Certificate)">
+            <remarks />
+        </member>
+        <member name="M:UnifiedAutomation.UaBase.BouncyCastleCertificateFactory.CreateCertificateFromPKCS12(System.Byte[],System.String)">
+            <summary>
+            Creates a certificate from a PKCS #12 store with a private key.
+            </summary>
+            <param name="rawData">The raw PKCS #12 store data.</param>
+            <param name="password">The password to use to access the store.</param>
+            <returns>The certificate with a private key.</returns>
+        </member>
+        <member name="T:UnifiedAutomation.UaBase.BouncyCastleSecurityProvider">
+            <remarks />
+        </member>
+        <member name="M:UnifiedAutomation.UaBase.BouncyCastleSecurityProvider.CreateCertificateFactory">
+            <remarks />
+        </member>
+    </members>
+</doc>

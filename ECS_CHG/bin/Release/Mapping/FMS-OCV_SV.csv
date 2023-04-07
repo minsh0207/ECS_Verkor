@@ -1,0 +1,9 @@
+EqpList,FmsList,DataType,DefaultValue
+StartFrequency,StartFrequency,float,100
+EndFrequency,EndFrequency,float,350
+NumberOfPoints,NumberOfPoints,UInt16,3
+BadClippingLimitCount,BadClippingLimitCount,UInt16,3
+BadCellUpperVoltage,BadCellUpperVoltage,float,4.5
+BadCellLowerVoltage,BadCellLowerVoltage,float,2.5
+BadCellDeltaVoltage,BadCellDeltaVoltage,float,0.25
+OperationMode,OperationMode,UInt16,33

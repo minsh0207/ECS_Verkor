@@ -1,0 +1,9 @@
+EqpList,FmsList,DataType,DefaultValue
+OCV.WaitTime,OCV.WaitTime_SV,UInt16,0
+ACIR.StartFrequency,ACIR.StartFrequency_SV,float,0
+ACIR.EndFrequency,ACIR.EndFrequency_SV,float,0
+ACIR.NumberOfPoints,ACIR.NumberOfPoints_SV,UInt16,0
+BadClippingLimitCount,BadClippingLimitCount_SV,UInt16,0
+BadCellUpperVoltage,BadCellUpperVoltage_SV,float,0
+BadCellLowerVoltage,BadCellLowerVoltage_SV,float,0
+BadCellDeltaVoltage,BadCellDeltaVoltage_SV,float,0

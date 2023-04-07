@@ -1,0 +1,9 @@
+EqpList,FmsList,DataType,CommonFlag
+StartTemp,StartTemp_PD,Float,C
+EndTemp,EndTemp_PD,Float,C
+AvgTemp,AvgTemp_PD,Float,C
+Capacity,Capacity_PD,Float,
+AvgVoltage,AvgVoltage_PD,Float,
+EndVoltage,EndVoltage_PD,Float,
+EndCurrent,EndCurrent_PD,Float,
+EndTime,EndTime_PD,UInt16,

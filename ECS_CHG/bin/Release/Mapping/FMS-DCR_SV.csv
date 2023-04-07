@@ -1,0 +1,11 @@
+EqpList,FmsList,DataType,DefaultValue
+Limit.CurrentUpper,Limit.CurrentUpper,float,412.5
+Limit.CurrentLower,Limit.CurrentLower,float,0
+Limit.VoltageUpper,Limit.VoltageUpper,float,4.3
+Limit.VoltageLower,Limit.VoltageLower,float,2.2
+Limit.ProcessingTime,Limit.ProcessingTime,UInt16,1
+Power_CD.Current,Poser_CD.Current,float,30
+Power_CD.MeasureTime,Poser_CD.MeasureTime,UInt16,3
+Power_CD.StopTime,Poser_CD.StopTime,UInt16,3
+OCV.WaitTime,OCV.WaitTime,UInt16,1
+OperationMode,OperationMode,UInt16,64

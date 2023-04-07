@@ -1,0 +1,8 @@
+EqpList,FmsList,DataType,DefaultValue
+SDM.Pressure,SDM.pressure,Float,250
+SDM.Temp,SDM.Temp,Float,15
+SDM.ProcessTime,SDM.ProcessTime,UInt16,1
+OCV.WaitTime,OCV.WaitTime,UInt16,1
+OCV.Pressure,OCV.Pressure,Float,250
+OCV.Temp,OCV.Temp,Float,15
+OperationMode,OperationMode,UInt16,1

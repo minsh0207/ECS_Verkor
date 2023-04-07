@@ -1,0 +1,10 @@
+EqpList,FmsList,DataType,CommonFlag
+Voltage,Voltage_PD,Float,
+Current,Current_PD,Float,
+Pressure,Pressure_PD,Float,C
+Temp1,Temp1_PD,Float,
+Temp2,Temp2_PD,Float,
+Temp3,Temp3_PD,Float,
+StartAirTemp,StartAirTemp_PD,Float,C
+AvgAirTemp,AvgAirTemp_PD,Float,C
+EndAirTemp,EndAirTemp_PD,Float,C

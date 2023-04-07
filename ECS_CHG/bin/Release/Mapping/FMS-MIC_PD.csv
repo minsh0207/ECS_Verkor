@@ -1,0 +1,8 @@
+EqpList,FmsList,DataType
+Voltage,Voltage,Float
+Current,Current,Float
+Pressure,Pressure,Float
+Temp1,Temp1,Float
+Temp2,Temp2,Float
+Temp3,Temp3,Float
+TempAir,TempAir,Float
